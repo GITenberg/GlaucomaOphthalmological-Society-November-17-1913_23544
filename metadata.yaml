@@ -1,0 +1,31 @@
+_repo: GlaucomaOphthalmological-Society-November-17-1913_23544
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Peck, Wesley Hamilton
+    birthdate: 1863
+    gutenberg_agent_id: '25905'
+    url: http://www.gutenberg.org/2009/agents/25905
+  - agent_name: Nance, Willis O. (Willis Orville)
+    birthdate: 1871
+    gutenberg_agent_id: '25904'
+    url: http://www.gutenberg.org/2009/agents/25904
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2007-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23544'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RE'
+- !lcsh 'Glaucoma'
+title: "Glaucoma\r\nA Symposium Presented at a Meeting of the Chicago Ophthalmological\
+  \ Society, November 17, 1913"
+url: http://www.gutenberg.org/ebooks/23544
